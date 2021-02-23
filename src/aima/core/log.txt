@@ -1,0 +1,59 @@
+Agent 1 added.
+Agent 1 acted.
+   Percept: [currLocation=B, currState=Clean]
+   Action: Action[name=Left]
+Agent 1 acted.
+   Percept: [currLocation=A, currState=Clean]
+   Action: Action[name=Right]
+Agent 1 acted.
+   Percept: [currLocation=B, currState=Clean]
+   Action: Action[name=Left]
+Agent 1 acted.
+   Percept: [currLocation=A, currState=Clean]
+   Action: Action[name=Right]
+Message: Performance for CC Env is:-4.0
+Agent 1 added.
+Agent 1 acted.
+   Percept: [currLocation=B, currState=Dirty]
+   Action: Action[name=Suck]
+Agent 1 acted.
+   Percept: [currLocation=B, currState=Clean]
+   Action: Action[name=Left]
+Agent 1 acted.
+   Percept: [currLocation=A, currState=Clean]
+   Action: Action[name=Right]
+Agent 1 acted.
+   Percept: [currLocation=B, currState=Clean]
+   Action: Action[name=Left]
+Message: Performance for CD Env is:7.0
+Agent 1 added.
+Agent 1 acted.
+   Percept: [currLocation=B, currState=Clean]
+   Action: Action[name=Left]
+Agent 1 acted.
+   Percept: [currLocation=A, currState=Dirty]
+   Action: Action[name=Suck]
+Agent 1 acted.
+   Percept: [currLocation=A, currState=Clean]
+   Action: Action[name=Right]
+Agent 1 acted.
+   Percept: [currLocation=B, currState=Clean]
+   Action: Action[name=Left]
+Message: Performance for DC Env is:7.0
+Agent 1 added.
+Agent 1 acted.
+   Percept: [currLocation=B, currState=Dirty]
+   Action: Action[name=Suck]
+Agent 1 acted.
+   Percept: [currLocation=B, currState=Clean]
+   Action: Action[name=Left]
+Agent 1 acted.
+   Percept: [currLocation=A, currState=Dirty]
+   Action: Action[name=Suck]
+Agent 1 acted.
+   Percept: [currLocation=A, currState=Clean]
+   Action: Action[name=Right]
+Message: Performance for DD Env is:18.0
+
+Process finished with exit code 0
+
